@@ -7,9 +7,9 @@ Sharing TestFlight links available for download 🛬
 
 | Brands   | Names/Links                                                                                                    |
 | -------- | -------------------------------------------------------------------------------------------------------------- |
-| Github   | **[Beta Apps Are Available](https://github.com/manhnh97/testflightm/blob/master/data-available-beta-apps.md)** |
+| Github   | **[Beta Apps Are Available](https://github.com/manhnh97/testflighty/blob/master/data-available-beta-apps.md)** |
 | Github   | **[Awesome TestFlight](https://github.com/pluwen/awesome-testflight-link)**                                    |
-| Telegram | **[Discovery TestFlight Apps](https://t.me/testflightm)**                                                      |
+| Telegram | **[Discovery TestFlight Apps](https://t.me/testflightynoti)**                                                  |
 | Telegram | **[Official TestFlight](https://t.me/OfficialTestFlight)**                                                     |
 | Telegram | **[Testflight1110](https://t.me/testflight1110)**                                                              |
 | Telegram | **[TestFlight Global](https://t.me/TestFlightGlobal)**                                                         |
@@ -32,10 +32,10 @@ Sharing TestFlight links available for download 🛬
 
 | My information                                      |
 | --------------------------------------------------- |
-| [X](https://twitter.com/testflightm)                |
-| [Telegram](https://t.me/testflightm)                |
-| [Facebook](https://www.facebook.com/testflightmm)   |
-| [Instagram](https://www.instagram.com/testflight.m) |
-| [Threads](https://www.threads.net/@testflight.m)    |
-| [GitHub](https://github.com/manhnh97/testflightm)   |
-| [Reddit](https://www.reddit.com/user/testflightm/)  |
+| [X](https://twitter.com/testflighty)                |
+| [Telegram](https://t.me/testflightynoti)            |
+| [Facebook](https://www.facebook.com/testflighty)   |
+| [Instagram](https://www.instagram.com/testflighty) |
+| [Threads](https://www.threads.net/@testflighty)    |
+| [GitHub](https://github.com/manhnh97/testflighty)   |
+| [Reddit](https://www.reddit.com/user/testflighty/)  |
